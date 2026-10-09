@@ -1,0 +1,90 @@
+{
+  "schema": 1,
+  "originals": [
+    {
+      "target": "Townfall/Content/FMOD/Banks/Desktop/Dialogue_JP.bank",
+      "sha256": "7cf54154ed0c0247a955c8042846fa972e9707c7f6c8289fbff51502f8fdf86d"
+    },
+    {
+      "target": "Townfall/Content/FMOD/Banks/Desktop/Cinematics_JP.bank",
+      "sha256": "877391f646d2065ece3f6009cb07606a000f1ce0072b971c474304f17f0d4990"
+    }
+  ],
+  "baseline": [],
+  "require_absent": [
+    "Townfall/Mods/ColdVoice/Dialogue_JP.bank",
+    "Townfall/Mods/ColdVoice/Cinematics_JP.bank",
+    "Townfall/Content/Paks/~mods/zzz_GameDubUA-DLOC_P.pak",
+    "Townfall/Content/Paks/~mods/zzz_ColdVoice-Menu_P.pak",
+    "Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.pak",
+    "Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.utoc",
+    "Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.ucas"
+  ],
+  "game": "Silent Hill: Townfall — Demo",
+  "tested_version": "1.4.153829 (Build 25534608)",
+  "slug": "townfall",
+  "marker": "Townfall/Content/Paks/pakchunk1-Windows.pak",
+  "process": "Townfall-Win64-Shipping",
+  "files": [
+    {
+      "payload": "Payload/Townfall/Mods/ColdVoice/Dialogue_JP.bank",
+      "target": "Townfall/Mods/ColdVoice/Dialogue_JP.bank",
+      "sha256": "da386ca1f1fb4b6ac2eba9eb4cd50625eb6d4d2fa8a5f3483ede3d608f758377",
+      "size": 39799408
+    },
+    {
+      "payload": "Payload/Townfall/Mods/ColdVoice/Cinematics_JP.bank",
+      "target": "Townfall/Mods/ColdVoice/Cinematics_JP.bank",
+      "sha256": "6d06295a4299e3d7aa2df91a436efe747f8d26af2bfc0995d930707f2af0d3c2",
+      "size": 561437728
+    },
+    {
+      "payload": "Payload/Townfall/Mods/ColdVoice/Dialogue_JP.bank",
+      "target": "Townfall/Content/FMOD/Banks/Desktop/Dialogue_JP.bank",
+      "sha256": "da386ca1f1fb4b6ac2eba9eb4cd50625eb6d4d2fa8a5f3483ede3d608f758377",
+      "size": 39799408
+    },
+    {
+      "payload": "Payload/Townfall/Mods/ColdVoice/Cinematics_JP.bank",
+      "target": "Townfall/Content/FMOD/Banks/Desktop/Cinematics_JP.bank",
+      "sha256": "6d06295a4299e3d7aa2df91a436efe747f8d26af2bfc0995d930707f2af0d3c2",
+      "size": 561437728
+    },
+    {
+      "payload": "Payload/Townfall/Content/Paks/~mods/zzz_GameDubUA-DLOC_P.pak",
+      "target": "Townfall/Content/Paks/~mods/zzz_GameDubUA-DLOC_P.pak",
+      "sha256": "89155eb92f9b8317f083c6796598364d00ca7bd43675262a555c9fc6aa0bfe6e",
+      "size": 15639593
+    },
+    {
+      "payload": "Payload/Townfall/Content/Paks/~mods/zzz_ColdVoice-Menu_P.pak",
+      "target": "Townfall/Content/Paks/~mods/zzz_ColdVoice-Menu_P.pak",
+      "sha256": "af78442cf018dbd4c63b1bba817b81f161e38efb16fa468a8b64f8583b547cc4",
+      "size": 9945
+    },
+    {
+      "payload": "Payload/Townfall/Content/Paks/pakchunk1-Windows.pak",
+      "target": "Townfall/Content/Paks/pakchunk1-Windows.pak",
+      "sha256": "89155eb92f9b8317f083c6796598364d00ca7bd43675262a555c9fc6aa0bfe6e",
+      "size": 15639593
+    },
+    {
+      "payload": "Payload/Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.pak",
+      "target": "Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.pak",
+      "sha256": "75e7144577253917f6da7312ef5e585b12fb728226a22b0938323751a6b555cd",
+      "size": 347
+    },
+    {
+      "payload": "Payload/Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.utoc",
+      "target": "Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.utoc",
+      "sha256": "0370d74c5a26f326166d787c6e6e692e07eabb3a6d433378e3c7f0e0b29a1f84",
+      "size": 442
+    },
+    {
+      "payload": "Payload/Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.ucas",
+      "target": "Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.ucas",
+      "sha256": "8099e585133537ee4d68f6bc4755ff5a2baee9465d372aa637dd2d905c286dd4",
+      "size": 8212
+    }
+  ]
+}

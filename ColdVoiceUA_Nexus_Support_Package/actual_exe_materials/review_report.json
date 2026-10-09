@@ -1,0 +1,44 @@
+{
+  "exe_name": "ColdVoiceUA_Silent Hill Townfall_Demo.exe",
+  "exe_size": 606244628,
+  "exe_sha256": "b375f49779e4e4e1c223a2f352b3df838767d84f063ab82d1be903842072572b",
+  "embedded_zip_size": 605124349,
+  "installer_source_matches_supplied_ps1": true,
+  "entries": {
+    "manifest.json": {
+      "size": 3743,
+      "sha256": "36bed1f39e42c8b2d191f7b61fa0ad9c4b3dd8b814d2ad87579bc0f84427dd76"
+    },
+    "INSTALL.ps1": {
+      "size": 48212,
+      "sha256": "a7211c8dfd3c5a6fd91e4f8e3e8553664bbf85036e5a841575cfb69a37140646"
+    },
+    "INSTALLER.ico": {
+      "size": 369942,
+      "sha256": "51e836883bb3787b682144d9282ad46a02850d043a3cd8df2b5be4fea212340f"
+    },
+    "INSTALLER.png": {
+      "size": 7939,
+      "sha256": "1a9b7d05dab6c1b8fd808b588b2748705447dd0a1fc549e4cdf2a8883afc12d5"
+    },
+    "README_UA.txt": {
+      "size": 375,
+      "sha256": "e211b6a86964bdef285410152e09490a9048b1d102929f67bbce8a81b095ac5c"
+    }
+  },
+  "game": "Silent Hill: Townfall — Demo",
+  "tested_version": "1.4.153829 (Build 25534608)",
+  "targets": [
+    "Townfall/Mods/ColdVoice/Dialogue_JP.bank",
+    "Townfall/Mods/ColdVoice/Cinematics_JP.bank",
+    "Townfall/Content/FMOD/Banks/Desktop/Dialogue_JP.bank",
+    "Townfall/Content/FMOD/Banks/Desktop/Cinematics_JP.bank",
+    "Townfall/Content/Paks/~mods/zzz_GameDubUA-DLOC_P.pak",
+    "Townfall/Content/Paks/~mods/zzz_ColdVoice-Menu_P.pak",
+    "Townfall/Content/Paks/pakchunk1-Windows.pak",
+    "Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.pak",
+    "Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.utoc",
+    "Townfall/Content/Paks/pakchunk9999-GameDubUA-Windows_P.ucas"
+  ],
+  "limits": "No EXE execution, antivirus scan, full payload check or C# correspondence proof."
+}

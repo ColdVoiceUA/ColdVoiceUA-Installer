@@ -1,0 +1,26 @@
+Subject: Manual review request: ColdVoiceUA Townfall demo installer
+
+Hello Nexus Mods Support,
+
+My file has been quarantined and I would like to request a manual review.
+
+Account: ColdVoiceUA
+Mod page: [INSERT ACTUAL NEXUS MOD PAGE URL]
+File: ColdVoiceUA_Silent Hill Townfall_Demo.exe
+Version: 1.0
+File size: 606244628 bytes (approximately 578.2 MiB)
+Game version stated in the embedded manifest: 1.4.153829 (Build 25534608)
+SHA-256: b375f49779e4e4e1c223a2f352b3df838767d84f063ab82d1be903842072572b
+Installer source and build instructions: [INSERT ACCESSIBLE SOURCE REPOSITORY URL]
+
+This is a standalone Ukrainian localization demo installer for SILENT HILL: Townfall, built using ColdVoice Studio. It offers installation and restoration to the original game files.
+
+The executable consists of a C# Windows Forms bootstrap with an appended ZIP. It extracts to a temporary directory and hosts a PowerShell installation wizard inside the process. The wizard installs manifest-listed localization files, including replacements for some native game files, creates local backups and verifies SHA-256 hashes. Restoration uses those backups and removes tracked added files.
+
+The embedded INSTALL.ps1 matches the supplied installer source after text encoding/newline normalization. The package includes the extracted manifest and review report.
+
+Please review the file and let me know if you need additional materials or packaging changes.
+
+Thank you,
+ColdVoiceUA
+
