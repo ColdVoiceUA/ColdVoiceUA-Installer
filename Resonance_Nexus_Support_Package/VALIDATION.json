@@ -1,0 +1,25 @@
+{
+  "source_snapshot": "CV2 current source + Resonance lifecycle v3",
+  "snapshot_date": "2026-11-01",
+  "github_live_comparison": "Unavailable: page fetch disabled and search returned no results. No live-repository identity claim.",
+  "archived_townfall_comparison": {
+    "bootstrap_cs": "unchanged",
+    "generic_installer_ps1": "unchanged",
+    "shared_builder_py": "changed",
+    "resonance_engine_runtime_builder": "additional sources required"
+  },
+  "synthetic_review_tests_passed": 3,
+  "python_syntax": "PASS",
+  "windows_compile_tested": false,
+  "actual_resonance_exe_provided": false,
+  "exact_uploaded_binary_match": "Extracted PS1 matches supplied rendered v3 runtime after normalization. C# binary correspondence remains unverified.",
+  "contains_original_game_audio": false,
+  "contains_project_database": false,
+  "actual_exe_review_materials_provided": true,
+  "exe_sha256_from_author_report": "953f3278d7eb3b13e2d883a0cb6422c7d9e89234bfa140f813320e68fe48f07f",
+  "exe_size_from_author_report": 42091934,
+  "replacement_count": 571,
+  "review_entry_hashes_independently_checked": true,
+  "demo_id_sets_match_replacements": true,
+  "all_wem_hashes": "Verified by author-side extraction tool as recorded in its report; audio not supplied here."
+}

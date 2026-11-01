@@ -1,0 +1,32 @@
+{
+  "exe_name": "ColdVoiceUA_Resonance_DEMO_v1.3.0.0.exe",
+  "exe_sha256": "953f3278d7eb3b13e2d883a0cb6422c7d9e89234bfa140f813320e68fe48f07f",
+  "exe_size": 42091934,
+  "embedded_zip_size": 40898439,
+  "game": "Resonance: A Plague Tale Legacy — DEMO",
+  "tested_version": "1.3.0.0",
+  "mode": "resonance-approved-wem-v1",
+  "replacement_count": 571,
+  "all_replacement_hashes_verified": true,
+  "embedded_install_ps1_matches_supplied_source": true,
+  "review_entries": {
+    "manifest.json": {
+      "size": 173851,
+      "sha256": "8a1350e0d556e9c78dc111dc46642f1d2150ad17f47c503444982cae2f5ac124"
+    },
+    "INSTALL.ps1": {
+      "size": 67833,
+      "sha256": "cefe1f5b8930cf8e1ce1f5eb3b1a32fca04947adfb328bccfe4ee7ccb9177b01"
+    },
+    "INSTALLER.ico": {
+      "size": 369942,
+      "sha256": "0dfeff94598488c005491f65d4821c6521bdf2d4142ce07083b5edac787b2b54"
+    },
+    "INSTALLER.png": {
+      "size": 5102,
+      "sha256": "699a17cf66bc39eb9426dc8bf063da7a85e821680db534e50c7386aed8dbbef8"
+    }
+  },
+  "scope": "Metadata only in review ZIP. No WEM audio, original PCK, project database or credentials copied.",
+  "limits": "EXE not executed. No antivirus verdict or C# binary/source correspondence proof."
+}
